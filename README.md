@@ -13,4 +13,4 @@ to
 code 
 DSA problems in C.
 I am a First Year BTech CSE student, and this
-is an initiative taken taken by my university to improve students' skill, in this developing
+is an initiative taken taken by my university to improve students' skill, in this developing and changing
