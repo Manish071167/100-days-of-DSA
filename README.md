@@ -6,3 +6,4 @@ Leetcode
 GeeksforGeeks
 vscode
 github 
+are all the platforms
